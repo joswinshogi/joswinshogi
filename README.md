@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joswin_Shogi</h1>
 <h3 align="center">A passionate programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://gifer.com/en/NxfN”>
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/2vmn4mcGpwqi6kPo8”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joswinshogi&label=Profile%20views&color=0e75b6&style=flat" alt="joswinshogi" /> </p>
 
