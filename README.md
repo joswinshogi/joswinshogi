@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joswin__shogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joswin__shogi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joswin shogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joswin shogi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joswin-shogi-2848a5200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joswin shogi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/joswinshogi@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="joswinshogi@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/joswin_shogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joswin_shogi" height="30" width="40" /></a>
 <a href="https://discord.gg/#5501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5501" height="30" width="40" /></a>
