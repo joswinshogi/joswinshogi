@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [nothing right now](nil)
 
-- 💬 Ask me about **C, java, git**
+- 💬 Ask me about **C, java, git**,python,java_script,nodeJS**
 
 - 📫 How to reach me **joswinshogi@gmail.com**
 
