@@ -7,7 +7,7 @@ FullStack Web Developer
 I am a dedicated and enthusiastic individual currently pursuing a Bachelor's degree in Artificial Intelligence and Data Science. With a strong foundation in web development, I am excels in various technologies including HTML, CSS, Tailwind CSS, Next.js, Django, Git, React, JavaScript, and Python. As a freelance web developer, IAm leverages this skill set to create dynamic and engaging web experiences for clients across different industries. I am proficient in HTML, CSS, and JavaScript allows him to craft visually appealing and responsive web interfaces. My expertise extends to frameworks such as React and Next.js, enabling me to develop robust frontend solutions with ease. In addition, I am a backend developer, particularly in Django and Python, empower me to build scalable and efficient web applications. With a keen understanding of version control using Git, I ensures seamless collaboration and code management in projects.
 
 * 🌍  I'm based in Kerala
-* 🖥️  See my portfolio at [joswinshogi.vercel.app](http://joswin.vercel.app)
+* 🖥️  See my portfolio at [joswin.vercel.app](http://joswin.vercel.app)
 * ✉️  You can contact me at [joswinshogi@gmail.com](mailto:joswinshogi@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Data Science
 * 🤝  I'm open to collaborating on Web Development
